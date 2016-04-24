@@ -1,0 +1,38 @@
+﻿div
+{
+    font-family: "Verdana, Geneva, Tahoma, sans-serif";
+    font-size: 1.01em;
+}
+
+body 
+{
+    font-family: "Verdana, Geneva, Tahoma, sans-serif";
+    font-size: 1.01em;
+} 
+
+form
+{
+    font-family: "Verdana, Geneva, Tahoma, sans-serif";
+    font-size: 1.01em;
+}
+
+a
+{
+    font-family: "Verdana, Geneva, Tahoma, sans-serif";
+    font-size: 1.01em;
+}
+
+.InvisibleColumn
+{
+    display: none;
+}
+
+.InvisibleColumn td
+{
+    border: none
+} 
+
+.InvisibleColumn th
+{
+    border: none
+} 

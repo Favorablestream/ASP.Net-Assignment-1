@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPageMenu.master.cs" Inherits="Assignment_1.MasterPageMenu" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <asp:ContentPlaceHolder ID="DefaultStylesheet" runat="server"> <link rel="stylesheet" href="/Css/General.css" type="text/css" />
+    </asp:ContentPlaceHolder>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        Kieran's Blog <br />
+        Kieran Gillibrand <br />
+        Email: Gill0332@algonquinlive.com <br />
+        Student: 040-756-866 <br /> <br />
+        
+        <asp:Label ID = "visited" runat = "server">
+        </asp:Label>
+
+        <br /> <br />
+
+        Admin Directory <br /> <br />
+        <a href = "AdminHome.aspx">AdminHome.aspx</a> <br /> <br />
+        <a href = "AddBlogPost.aspx">AddBlogPost.aspx</a> <br /> <br />
+        <a href = "BadWords.aspx">BadWords.aspx</a> <br /> <br />
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

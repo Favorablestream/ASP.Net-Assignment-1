@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

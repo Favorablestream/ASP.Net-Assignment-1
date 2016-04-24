@@ -1,0 +1,40 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Assignment_1.MasterPage"%>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+
+    <asp:ContentPlaceHolder ID="DefaultStylesheet" runat="server"> <link rel="stylesheet" href="/Css/General.css" type="text/css" />
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="head" runat="server">
+        </asp:ContentPlaceHolder>
+
+        Kieran's Blog <br />
+        Kieran Gillibrand <br />
+        Email: Gill0332@algonquinlive.com <br />
+        Student: 040-756-866 <br /> <br />
+        
+        <asp:Label ID = "visited" runat = "server">
+        </asp:Label>
+
+        <br /> <br />
+
+        Directory <br /> <br />
+        <a href = "/Site/Default.aspx">Default.aspx</a> <br /> <br />
+        <a href = "/Site/Register.aspx">Register.aspx</a> <br /> <br />
+        <a href = "/Site/Login.aspx">Login.aspx</a> <br /> <br />
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

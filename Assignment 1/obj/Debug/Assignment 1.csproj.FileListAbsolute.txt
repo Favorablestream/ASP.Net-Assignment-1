@@ -1,0 +1,40 @@
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\csc.exe
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\vbc.exe
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Assignment 1.dll.config
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Assignment 1.dll
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Assignment 1.pdb
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\obj\Debug\Assignment 1.dll
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\Kieran\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\MySql.Data.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\csc.exe
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\vbc.exe
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Assignment 1.dll.config
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Assignment 1.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Assignment 1.pdb
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\MySql.Data.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\obj\Debug\Assignment 1.dll
+C:\Users\kiera\Mega\College\Current Semester\Workspaces\Visual Studio Workspace\Dot Net\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
